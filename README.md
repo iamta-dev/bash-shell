@@ -32,7 +32,13 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 ```
-<p align="center"><img width="200" src="/markdown/bash-shell.png" /> </p>
+
+run in ./$HOME
+```
+ $ source ~/.bashrc
+```
+
+<p align="center"><img width="500" src="/markdown/bash-shell.png" /> </p>
 
 ## Gnome-tweaks Dark Theme 
 ```
@@ -41,6 +47,6 @@ unset __conda_setup
  $ apt-get install gnome-tweak-tool
  $ gnome-tweaks
 ```
-<p align="center"><img width="200" src="/markdown/tweaks.png" /> </p>
+<p align="center"><img width="500" src="/markdown/tweaks.png" /> </p>
 
 wallpaper kali : [markdown/kali.png](./markdown/kali.png)
