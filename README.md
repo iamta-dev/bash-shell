@@ -14,7 +14,7 @@ add code in ~/.bashrc
 source ~/.bash_profile
 ```
 
-add shell Miniconda 
+if using Miniconda
 add cone in .bash_profile
 ```
 # >>> conda initialize >>>
