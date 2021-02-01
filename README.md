@@ -2,18 +2,23 @@
 
 ## ubuntu 18.04 && macOSX
 
-copy file and paste to ./$HOME
+STEP 1 : copy file and paste to ./$HOME
 ```
 .bash_profile
 git-completion.bash
 git-prompt.sh
 ```
 
+STEP 2 : ubuntu 18.04
 add code in ~/.bashrc
 ```
 source ~/.bash_profile
 ```
-
+STEP 2 : macOS 
+```
+chsh -s /bin/bash
+```
+STEP 3 : Other... 
 if using Miniconda
 add cone in .bash_profile
 ```
